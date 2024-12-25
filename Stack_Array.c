@@ -1,3 +1,4 @@
+//All all stack operations in Array.
 #include<stdio.h>
 #include<stdlib.h>
 #define max 5
